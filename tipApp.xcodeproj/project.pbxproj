@@ -15,6 +15,8 @@
 		E1329E79250E9BD30088FB88 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E1329E77250E9BD30088FB88 /* LaunchScreen.storyboard */; };
 		E1329E84250E9BD30088FB88 /* tipAppTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = E1329E83250E9BD30088FB88 /* tipAppTests.swift */; };
 		E1329E8F250E9BD30088FB88 /* tipAppUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = E1329E8E250E9BD30088FB88 /* tipAppUITests.swift */; };
+		E1329E9D250E9D9B0088FB88 /* SettingsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E1329E9C250E9D9B0088FB88 /* SettingsViewController.swift */; };
+		E1329E9F250EB8630088FB88 /* icons8-tips-48.png in Resources */ = {isa = PBXBuildFile; fileRef = E1329E9E250EB8630088FB88 /* icons8-tips-48.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +51,8 @@
 		E1329E8A250E9BD30088FB88 /* tipAppUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = tipAppUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		E1329E8E250E9BD30088FB88 /* tipAppUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = tipAppUITests.swift; sourceTree = "<group>"; };
 		E1329E90250E9BD40088FB88 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		E1329E9C250E9D9B0088FB88 /* SettingsViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SettingsViewController.swift; sourceTree = "<group>"; };
+		E1329E9E250EB8630088FB88 /* icons8-tips-48.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "icons8-tips-48.png"; path = "../../../Downloads/icons8-tips-48.png"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -102,10 +106,12 @@
 				E1329E6C250E9BD30088FB88 /* AppDelegate.swift */,
 				E1329E6E250E9BD30088FB88 /* SceneDelegate.swift */,
 				E1329E70250E9BD30088FB88 /* ViewController.swift */,
+				E1329E9C250E9D9B0088FB88 /* SettingsViewController.swift */,
 				E1329E72250E9BD30088FB88 /* Main.storyboard */,
 				E1329E75250E9BD30088FB88 /* Assets.xcassets */,
 				E1329E77250E9BD30088FB88 /* LaunchScreen.storyboard */,
 				E1329E7A250E9BD30088FB88 /* Info.plist */,
+				E1329E9E250EB8630088FB88 /* icons8-tips-48.png */,
 			);
 			path = tipApp;
 			sourceTree = "<group>";
@@ -235,6 +241,7 @@
 				E1329E79250E9BD30088FB88 /* LaunchScreen.storyboard in Resources */,
 				E1329E76250E9BD30088FB88 /* Assets.xcassets in Resources */,
 				E1329E74250E9BD30088FB88 /* Main.storyboard in Resources */,
+				E1329E9F250EB8630088FB88 /* icons8-tips-48.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -262,6 +269,7 @@
 				E1329E71250E9BD30088FB88 /* ViewController.swift in Sources */,
 				E1329E6D250E9BD30088FB88 /* AppDelegate.swift in Sources */,
 				E1329E6F250E9BD30088FB88 /* SceneDelegate.swift in Sources */,
+				E1329E9D250E9D9B0088FB88 /* SettingsViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
