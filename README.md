@@ -30,15 +30,15 @@ Here's a walkthrough of implemented user stories:
 
 <img src='http://g.recordit.co/Fm69ZA2Y5S.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
-GIF created with [LiceCap](http://www.cockos.com/licecap/).
+GIF created with [Recordit] https://recordit.co/.
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+This was my first time using both Swift and Xcode; it was also the first time I had ever done a mobile app so at first glance this was a challenge but I spent time researching how to implement different functionalities and I feel as though this led me to becoming a lot more comfortable overall with app development.
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [2020] [Nicholas de Souza]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
